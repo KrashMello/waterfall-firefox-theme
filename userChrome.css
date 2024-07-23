@@ -243,7 +243,10 @@ window,
 /* active tab background */
 .tabbrowser-tab[selected]
     > .tab-stack
-    > .tab-background { background: var(--uc-hover-colour) !important; }
+    > .tab-background { 
+        background: var(--uc-hover-colour) !important; 
+        border-top: solid 2px var(--inverted-colour) !important;
+    }
 
 
 /* tab close button options */
