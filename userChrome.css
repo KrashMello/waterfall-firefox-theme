@@ -42,9 +42,9 @@
     /* Comment the color theme you don't want to use */
 
     /* Dark Theme Colors */
-    --window-colour:               #1f2122;
-    --secondary-colour:            #141616;
-    --inverted-colour:             #FAFAFC;
+    --window-colour: #3b4252;
+    --secondary-colour: #4c566a;
+    --inverted-colour: #81a1c1;
 
     /* Light Theme Colors
     --window-colour:               #FAFAFC;
